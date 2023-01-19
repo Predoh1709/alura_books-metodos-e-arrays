@@ -1,2 +1,2 @@
 # alura_books-metodos-e-arrays
-Projeto realizado no Curso de "JavaScript: métodos de array", da Alura
+link da requisição: https://guilhermeonrails.github.io/casadocodigo/livros.json
